@@ -1,10 +1,11 @@
-# Hi, I'm tokenimizer 👋
+# Kayzen
 
-Welcome to my GitHub profile. I use this space to build, experiment with ideas, and share projects.
+I build thoughtful software and practical tools.
 
-## Explore
+## Work
 
-- Browse my [repositories](https://github.com/tokenimizer?tab=repositories)
-- Check out the projects pinned on my profile
+Explore my [repositories](https://github.com/tokenimizer?tab=repositories) and pinned projects.
 
-Thanks for stopping by!
+## Contact
+
+[GitHub](https://github.com/tokenimizer)
